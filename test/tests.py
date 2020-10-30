@@ -1,6 +1,9 @@
 import subprocess
 import unittest
 import parser_for_instructions
+import subprocess
+import unittest
+import parser_for_instructions
 
 
 class MyTestCase(unittest.TestCase):
