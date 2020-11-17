@@ -1,7 +1,6 @@
 # OpenCL Decompiler
 
-![CPU](https://img.shields.io/badge/GPU-AMD_GCN-red) ![Python](https://img.shields.io/badge/python-v3.7-blue) ![GitHub repo size](https://img.shields.io/github/repo-size/KristinaMihajlenko/OpenCLDecompiler)
-
+![CPU](https://img.shields.io/badge/GPU-AMD_GCN-red) ![Python](https://img.shields.io/badge/python-v3.7-blue) 
 ## Introduction
 *OpenCLDecompiler* is a decompiler OpenCL for GPU AMD with GCN architecture. For disassembly used the GCN disassembler - clrxdisasm from [CLRadeonExtender project](https://clrx.nativeboinc.org/)
 This project is a bachelor's thesis. The experiments were conducted on an AMD Radeon RX 580 graphics card.
